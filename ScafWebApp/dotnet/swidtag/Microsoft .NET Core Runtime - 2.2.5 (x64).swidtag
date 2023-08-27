@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SoftwareIdentity tagId="wix:bundle/3E19A4DC-AEFA-4057-BC57-AC9DC76C3E50" name="Microsoft .NET Core Runtime - 2.2.5 (x64)" version="2.2.5.27618" versionScheme="multipartnumeric" xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd">
+  <Entity name="Microsoft Corporation" regid="microsoft.com" role="softwareCreator tagCreator" />
+  <Meta persistentId="wix:bundle.upgrade/54E5CE19-52DC-517B-0400-FC74D6C3B177" />
+</SoftwareIdentity>
